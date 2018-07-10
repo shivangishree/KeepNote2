@@ -1,0 +1,7 @@
+/home/shivangi/Documents/spring-Assignment2/assignment-solution-step2/src/main/java/com/stackroute/keepnote/model/Note.java
+/home/shivangi/Documents/spring-Assignment2/assignment-solution-step2/src/main/java/com/stackroute/keepnote/dao/NoteDAO.java
+/home/shivangi/Documents/spring-Assignment2/assignment-solution-step2/src/main/java/com/stackroute/keepnote/controller/NoteController.java
+/home/shivangi/Documents/spring-Assignment2/assignment-solution-step2/src/main/java/com/stackroute/keepnote/config/ApplicationContextConfig.java
+/home/shivangi/Documents/spring-Assignment2/assignment-solution-step2/src/main/java/com/stackroute/keepnote/config/WebMvcConfig.java
+/home/shivangi/Documents/spring-Assignment2/assignment-solution-step2/src/main/java/com/stackroute/keepnote/config/WebAppInitializer.java
+/home/shivangi/Documents/spring-Assignment2/assignment-solution-step2/src/main/java/com/stackroute/keepnote/dao/NoteDAOImpl.java
